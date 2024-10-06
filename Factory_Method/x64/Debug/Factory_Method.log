@@ -1,0 +1,8 @@
+﻿  ConcreteCreator.cpp
+  ConcreteCreator2.cpp
+  ConcreteProduct.cpp
+  ConcreteProduct2.cpp
+  Creator.cpp
+  main.cpp
+  Generating Code...
+  Factory_Method.vcxproj -> D:\Design_Patterns\Design_Patterns\x64\Debug\Factory_Method.exe
