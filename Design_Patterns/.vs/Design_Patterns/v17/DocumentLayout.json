@@ -3,37 +3,22 @@
   "WorkspaceRootPath": "D:\\Design_Patterns\\Design_Patterns\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7684E1F8-4735-4248-8C6C-43CA396AABF7}|..\\Abstract_Factory_Method\\Abstract_Factory_Method.vcxproj|D:\\Design_Patterns\\Abstract_Factory_Method\\Set2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{53984CAB-BC01-442E-AAA1-6CBD5FB7D479}|..\\Builder_Design_Pattern(easy implementation)\\Builder_Design_Pattern(easy implementation).vcxproj|D:\\Design_Patterns\\Builder_Design_Pattern(easy implementation)\\ComputerAssembler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7684E1F8-4735-4248-8C6C-43CA396AABF7}|..\\Abstract_Factory_Method\\Abstract_Factory_Method.vcxproj|D:\\Design_Patterns\\Abstract_Factory_Method\\Set1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{53984CAB-BC01-442E-AAA1-6CBD5FB7D479}|..\\Builder_Design_Pattern(easy implementation)\\Builder_Design_Pattern(easy implementation).vcxproj|D:\\Design_Patterns\\Builder_Design_Pattern(easy implementation)\\DesktopComputerBuilder.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7684E1F8-4735-4248-8C6C-43CA396AABF7}|..\\Abstract_Factory_Method\\Abstract_Factory_Method.vcxproj|D:\\Design_Patterns\\Abstract_Factory_Method\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{53984CAB-BC01-442E-AAA1-6CBD5FB7D479}|..\\Builder_Design_Pattern(easy implementation)\\Builder_Design_Pattern(easy implementation).vcxproj|D:\\Design_Patterns\\Builder_Design_Pattern(easy implementation)\\Computer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7684E1F8-4735-4248-8C6C-43CA396AABF7}|..\\Abstract_Factory_Method\\Abstract_Factory_Method.vcxproj|D:\\Design_Patterns\\Abstract_Factory_Method\\AbstractProductA.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{53984CAB-BC01-442E-AAA1-6CBD5FB7D479}|..\\Builder_Design_Pattern(easy implementation)\\Builder_Design_Pattern(easy implementation).vcxproj|D:\\Design_Patterns\\Builder_Design_Pattern(easy implementation)\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7684E1F8-4735-4248-8C6C-43CA396AABF7}|..\\Abstract_Factory_Method\\Abstract_Factory_Method.vcxproj|D:\\Design_Patterns\\Abstract_Factory_Method\\ConcreteFactory2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{53984CAB-BC01-442E-AAA1-6CBD5FB7D479}|..\\Builder_Design_Pattern(easy implementation)\\Builder_Design_Pattern(easy implementation).vcxproj|D:\\Design_Patterns\\Builder_Design_Pattern(easy implementation)\\ComputerBuilder.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7684E1F8-4735-4248-8C6C-43CA396AABF7}|..\\Abstract_Factory_Method\\Abstract_Factory_Method.vcxproj|D:\\Design_Patterns\\Abstract_Factory_Method\\ConcreteFactory2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7684E1F8-4735-4248-8C6C-43CA396AABF7}|..\\Abstract_Factory_Method\\Abstract_Factory_Method.vcxproj|D:\\Design_Patterns\\Abstract_Factory_Method\\AbstractFactory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7684E1F8-4735-4248-8C6C-43CA396AABF7}|..\\Abstract_Factory_Method\\Abstract_Factory_Method.vcxproj|D:\\Design_Patterns\\Abstract_Factory_Method\\ConcreteFactory1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7684E1F8-4735-4248-8C6C-43CA396AABF7}|..\\Abstract_Factory_Method\\Abstract_Factory_Method.vcxproj|D:\\Design_Patterns\\Abstract_Factory_Method\\ConcreteFactory1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7684E1F8-4735-4248-8C6C-43CA396AABF7}|..\\Abstract_Factory_Method\\Abstract_Factory_Method.vcxproj|D:\\Design_Patterns\\Abstract_Factory_Method\\AbstractFactory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7684E1F8-4735-4248-8C6C-43CA396AABF7}|..\\Abstract_Factory_Method\\Abstract_Factory_Method.vcxproj|D:\\Design_Patterns\\Abstract_Factory_Method\\AbstractProductB.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{53984CAB-BC01-442E-AAA1-6CBD5FB7D479}|..\\Builder_Design_Pattern(easy implementation)\\Builder_Design_Pattern(easy implementation).vcxproj|D:\\Design_Patterns\\Builder_Design_Pattern(easy implementation)\\Computer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,7 +28,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -67,145 +52,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AbstractFactory.cpp",
-              "DocumentMoniker": "D:\\Design_Patterns\\Abstract_Factory_Method\\AbstractFactory.cpp",
-              "RelativeDocumentMoniker": "..\\Abstract_Factory_Method\\AbstractFactory.cpp",
-              "ToolTip": "D:\\Design_Patterns\\Abstract_Factory_Method\\AbstractFactory.cpp",
-              "RelativeToolTip": "..\\Abstract_Factory_Method\\AbstractFactory.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-07T10:43:16.449Z",
+              "DocumentIndex": 1,
+              "Title": "DesktopComputerBuilder.h",
+              "DocumentMoniker": "D:\\Design_Patterns\\Builder_Design_Pattern(easy implementation)\\DesktopComputerBuilder.h",
+              "RelativeDocumentMoniker": "..\\Builder_Design_Pattern(easy implementation)\\DesktopComputerBuilder.h",
+              "ToolTip": "D:\\Design_Patterns\\Builder_Design_Pattern(easy implementation)\\DesktopComputerBuilder.h",
+              "RelativeToolTip": "..\\Builder_Design_Pattern(easy implementation)\\DesktopComputerBuilder.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-07T16:30:32.152Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ConcreteFactory2.cpp",
-              "DocumentMoniker": "D:\\Design_Patterns\\Abstract_Factory_Method\\ConcreteFactory2.cpp",
-              "RelativeDocumentMoniker": "..\\Abstract_Factory_Method\\ConcreteFactory2.cpp",
-              "ToolTip": "D:\\Design_Patterns\\Abstract_Factory_Method\\ConcreteFactory2.cpp",
-              "RelativeToolTip": "..\\Abstract_Factory_Method\\ConcreteFactory2.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-07T10:33:02.546Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ConcreteFactory2.h",
-              "DocumentMoniker": "D:\\Design_Patterns\\Abstract_Factory_Method\\ConcreteFactory2.h",
-              "RelativeDocumentMoniker": "..\\Abstract_Factory_Method\\ConcreteFactory2.h",
-              "ToolTip": "D:\\Design_Patterns\\Abstract_Factory_Method\\ConcreteFactory2.h",
-              "RelativeToolTip": "..\\Abstract_Factory_Method\\ConcreteFactory2.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Title": "ComputerBuilder.h",
+              "DocumentMoniker": "D:\\Design_Patterns\\Builder_Design_Pattern(easy implementation)\\ComputerBuilder.h",
+              "RelativeDocumentMoniker": "..\\Builder_Design_Pattern(easy implementation)\\ComputerBuilder.h",
+              "ToolTip": "D:\\Design_Patterns\\Builder_Design_Pattern(easy implementation)\\ComputerBuilder.h",
+              "RelativeToolTip": "..\\Builder_Design_Pattern(easy implementation)\\ComputerBuilder.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-07T10:32:12.651Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ConcreteFactory1.cpp",
-              "DocumentMoniker": "D:\\Design_Patterns\\Abstract_Factory_Method\\ConcreteFactory1.cpp",
-              "RelativeDocumentMoniker": "..\\Abstract_Factory_Method\\ConcreteFactory1.cpp",
-              "ToolTip": "D:\\Design_Patterns\\Abstract_Factory_Method\\ConcreteFactory1.cpp",
-              "RelativeToolTip": "..\\Abstract_Factory_Method\\ConcreteFactory1.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-07T10:29:39.281Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ConcreteFactory1.h",
-              "DocumentMoniker": "D:\\Design_Patterns\\Abstract_Factory_Method\\ConcreteFactory1.h",
-              "RelativeDocumentMoniker": "..\\Abstract_Factory_Method\\ConcreteFactory1.h",
-              "ToolTip": "D:\\Design_Patterns\\Abstract_Factory_Method\\ConcreteFactory1.h",
-              "RelativeToolTip": "..\\Abstract_Factory_Method\\ConcreteFactory1.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-07T10:27:01.64Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AbstractFactory.h",
-              "DocumentMoniker": "D:\\Design_Patterns\\Abstract_Factory_Method\\AbstractFactory.h",
-              "RelativeDocumentMoniker": "..\\Abstract_Factory_Method\\AbstractFactory.h",
-              "ToolTip": "D:\\Design_Patterns\\Abstract_Factory_Method\\AbstractFactory.h",
-              "RelativeToolTip": "..\\Abstract_Factory_Method\\AbstractFactory.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-07T10:23:49.498Z",
+              "WhenOpened": "2024-10-07T16:27:18.369Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Set2.h",
-              "DocumentMoniker": "D:\\Design_Patterns\\Abstract_Factory_Method\\Set2.h",
-              "RelativeDocumentMoniker": "..\\Abstract_Factory_Method\\Set2.h",
-              "ToolTip": "D:\\Design_Patterns\\Abstract_Factory_Method\\Set2.h",
-              "RelativeToolTip": "..\\Abstract_Factory_Method\\Set2.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Title": "ComputerAssembler.h",
+              "DocumentMoniker": "D:\\Design_Patterns\\Builder_Design_Pattern(easy implementation)\\ComputerAssembler.h",
+              "RelativeDocumentMoniker": "..\\Builder_Design_Pattern(easy implementation)\\ComputerAssembler.h",
+              "ToolTip": "D:\\Design_Patterns\\Builder_Design_Pattern(easy implementation)\\ComputerAssembler.h",
+              "RelativeToolTip": "..\\Builder_Design_Pattern(easy implementation)\\ComputerAssembler.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-07T10:13:57.066Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Set1.h",
-              "DocumentMoniker": "D:\\Design_Patterns\\Abstract_Factory_Method\\Set1.h",
-              "RelativeDocumentMoniker": "..\\Abstract_Factory_Method\\Set1.h",
-              "ToolTip": "D:\\Design_Patterns\\Abstract_Factory_Method\\Set1.h",
-              "RelativeToolTip": "..\\Abstract_Factory_Method\\Set1.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-07T10:10:06.517Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AbstractProductB.h",
-              "DocumentMoniker": "D:\\Design_Patterns\\Abstract_Factory_Method\\AbstractProductB.h",
-              "RelativeDocumentMoniker": "..\\Abstract_Factory_Method\\AbstractProductB.h",
-              "ToolTip": "D:\\Design_Patterns\\Abstract_Factory_Method\\AbstractProductB.h",
-              "RelativeToolTip": "..\\Abstract_Factory_Method\\AbstractProductB.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-07T10:08:33.125Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AbstractProductA.h",
-              "DocumentMoniker": "D:\\Design_Patterns\\Abstract_Factory_Method\\AbstractProductA.h",
-              "RelativeDocumentMoniker": "..\\Abstract_Factory_Method\\AbstractProductA.h",
-              "ToolTip": "D:\\Design_Patterns\\Abstract_Factory_Method\\AbstractProductA.h",
-              "RelativeToolTip": "..\\Abstract_Factory_Method\\AbstractProductA.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-07T10:06:40.219Z",
+              "WhenOpened": "2024-10-07T16:25:06.548Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "main.cpp",
-              "DocumentMoniker": "D:\\Design_Patterns\\Abstract_Factory_Method\\main.cpp",
-              "RelativeDocumentMoniker": "..\\Abstract_Factory_Method\\main.cpp",
-              "ToolTip": "D:\\Design_Patterns\\Abstract_Factory_Method\\main.cpp",
-              "RelativeToolTip": "..\\Abstract_Factory_Method\\main.cpp",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAANAAAA",
+              "Title": "Computer.cpp",
+              "DocumentMoniker": "D:\\Design_Patterns\\Builder_Design_Pattern(easy implementation)\\Computer.cpp",
+              "RelativeDocumentMoniker": "..\\Builder_Design_Pattern(easy implementation)\\Computer.cpp",
+              "ToolTip": "D:\\Design_Patterns\\Builder_Design_Pattern(easy implementation)\\Computer.cpp",
+              "RelativeToolTip": "..\\Builder_Design_Pattern(easy implementation)\\Computer.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-07T10:05:08.194Z",
+              "WhenOpened": "2024-10-07T16:22:14.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Computer.h",
+              "DocumentMoniker": "D:\\Design_Patterns\\Builder_Design_Pattern(easy implementation)\\Computer.h",
+              "RelativeDocumentMoniker": "..\\Builder_Design_Pattern(easy implementation)\\Computer.h",
+              "ToolTip": "D:\\Design_Patterns\\Builder_Design_Pattern(easy implementation)\\Computer.h",
+              "RelativeToolTip": "..\\Builder_Design_Pattern(easy implementation)\\Computer.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-07T14:22:33.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Design_Patterns\\Builder_Design_Pattern(easy implementation)\\main.cpp",
+              "RelativeDocumentMoniker": "..\\Builder_Design_Pattern(easy implementation)\\main.cpp",
+              "ToolTip": "D:\\Design_Patterns\\Builder_Design_Pattern(easy implementation)\\main.cpp",
+              "RelativeToolTip": "..\\Builder_Design_Pattern(easy implementation)\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-07T14:18:55.676Z",
               "EditorCaption": ""
             }
           ]
